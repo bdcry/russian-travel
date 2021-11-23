@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-**[Ссылка на проект](https://bdcry.github.io/russian-travel/index.html)**
+**[Ссылка на проект](https://bdcry.github.io/russian-travel/)**
 
 **Что использованно в проекте:**
 * Адаптивная вёрстка
