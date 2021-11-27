@@ -1,13 +1,12 @@
-.place__website{
-  align-self: flex-end;
-  margin: 0 0 48px 0px;
-  width: 50%;
+.place__website {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
-@media screen and (max-width: 560px) {
-  .place__website {
-      width: calc(100% - 2 * 16px);
-      margin: 0 0 32px 16px;
-      align-self: start;
-  }
+@media screen and (max-width: 767px) {
+    .place__website {
+        width: calc(100% - 2 * 16px);
+        margin: 0px auto;
+    }
 }

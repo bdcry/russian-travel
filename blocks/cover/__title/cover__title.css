@@ -9,11 +9,10 @@
     text-rendering: optimizeLegibility;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 740px) {
     .cover__title {
-        font-size: 32px;
-        line-height: 1.09;
-        max-width: 288px;
-        margin: 0 0 16px;
+      font-size: 32px;
+      line-height: 1.09;
+      max-width: 250px;
     }
 }
